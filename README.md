@@ -13,14 +13,11 @@ This project is a complete gameplay loop, featuring:
 * **Complete Game Flow:** Includes a main menu/homescreen, a score tracker during gameplay, and an end screen to declare the winner.
 * **Audio Integration:** Background music and sound effects for a more immersive experience.
 
-<!-- ## Screenshots
-
-*(A gameplay GIF is highly recommended here to quickly show the core mechanics in action.)* 
-
+## Gameplay
 <p align="center">
-  <img src=".github/assets/bomberman-menu.png" alt="Main Menu" width="48%" />
-  <img src=".github/assets/bomberman-gameplay.png" alt="Gameplay Screenshot" width="48%" />
-</p> -->
+  <img src="https://github.com/m-aziz1/m-aziz1/blob/main/misc-assets/bomberman-home.gif" alt="Main Menu" width="48%" />
+  <img src="https://github.com/m-aziz1/m-aziz1/blob/main/misc-assets/bomberman-death.gif" alt="Gameplay gif" width="48%" />
+</p>
 
 ## Technical Implementation
 
